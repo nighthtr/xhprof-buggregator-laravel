@@ -1,5 +1,5 @@
 {
-    "name": "maantje/xhprof-buggregator-laravel",
+    "name": "nighthtr/xhprof-buggregator-laravel",
     "description": "Xhprof buggregator integration for Laravel",
     "keywords": [
         "maantje",
@@ -7,7 +7,7 @@
         "buggregator",
         "xhprof"
     ],
-    "homepage": "https://github.com/maantje/xhprof-buggregator-laravel",
+    "homepage": "https://github.com/nighthtr/xhprof-buggregator-laravel",
     "license": "MIT",
     "authors": [
         {
